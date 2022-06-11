@@ -583,7 +583,10 @@ MonoBehaviour:
   m_text: 'This is a tutorial scene. Move with the arrow keys or the WASD keys.
 
     Avoid
-    the walls as they will kill you because ''everything dies in one hit''.'
+    the walls as they will kill you because ''everything dies in one hit''
+
+    The
+    large aqua-blue shell is the portal which takes you to the next level'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -646,7 +649,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -7.3581543, y: 0, z: -701.96783, w: 0}
+  m_margin: {x: -7.3581543, y: -38.759247, z: -701.96783, w: -36.25865}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
