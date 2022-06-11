@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class ButtonManager : MonoBehaviour
 {
     public void PlayButton()
     {
-      SceneManager.LoadScene("StartStory");
-    }
-
-    public void ExitButton()
-    {
-      Application.Quit();
+      SceneManager.LoadScene("Level1");
     }
 }
