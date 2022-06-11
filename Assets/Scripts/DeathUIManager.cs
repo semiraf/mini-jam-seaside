@@ -7,7 +7,7 @@ public class DeathUIManager : MonoBehaviour
 {
     public void PlayAgainButton()
     {
-      SceneManager.LoadScene("Level1");
+      SceneManager.LoadScene("Tutorial");
     }
 
     public void BackButton()
