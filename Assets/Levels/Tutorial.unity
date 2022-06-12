@@ -314,6 +314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cefcbbd71f1b74f9a017dcb90679ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNameReload: Tutorial
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -522,6 +523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cefcbbd71f1b74f9a017dcb90679ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNameReload: Tutorial
 --- !u!1 &1207399473
 GameObject:
   m_ObjectHideFlags: 0
@@ -588,8 +590,8 @@ MonoBehaviour:
     The
     large aqua-blue shell is the portal which takes you to the next level'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
+  m_sharedMaterial: {fileID: -3463312741240554733, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -888,6 +890,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cefcbbd71f1b74f9a017dcb90679ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNameReload: Tutorial
 --- !u!1 &1856751499
 GameObject:
   m_ObjectHideFlags: 0
@@ -919,6 +922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cefcbbd71f1b74f9a017dcb90679ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNameReload: Tutorial
 --- !u!61 &1856751501
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1136,6 +1140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7cefcbbd71f1b74f9a017dcb90679ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelNameReload: Tutorial
 --- !u!1001 &3655510005177469437
 PrefabInstance:
   m_ObjectHideFlags: 0

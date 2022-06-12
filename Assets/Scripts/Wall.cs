@@ -5,10 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class Wall : MonoBehaviour
 {
+   public string levelNameReload = "";
+
   private void OnTriggerEnter2D(Collider2D other)
    {
      if (other.gameObject.tag == "Player"){
-      SceneManager.LoadScene("Death");
+      SceneManager.LoadScene(levelNameReload);
      }
+
    }
 }

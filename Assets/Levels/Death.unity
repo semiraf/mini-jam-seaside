@@ -184,8 +184,8 @@ MonoBehaviour:
   m_text: You failed to guide a young crab back to his pack, he will have to find
     his way around the maze alone!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
+  m_sharedMaterial: {fileID: -3463312741240554733, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -321,8 +321,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
+  m_sharedMaterial: {fileID: -3463312741240554733, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -851,8 +851,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
+  m_sharedMaterial: {fileID: -3463312741240554733, guid: 2c20c6dc8cafe854ca4d93752d5ab0eb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
